@@ -1,6 +1,3 @@
-//Name: Abdul Tabel & Ryan Patterson
-//Project 2
-//Prof. Harris
 
 #include <iostream> 
 #include <string>
